@@ -1,0 +1,251 @@
+.fon{
+    width: 1020px;
+    background-color: bisque;
+    margin: 0 auto;
+}
+.cap{
+    display: inline-block;
+}
+.logo{   
+    float: left;
+}
+.menu{
+    display: inline-block;
+    padding-bottom: 20px;
+}
+.home{
+    margin-left: 230px;
+    margin-right: 15px;
+    float: left;
+    background-color: #ffffff;
+    border: 0px;
+    padding: 1px;
+}
+.information{
+    display: block;
+    margin-right: 15px;
+    float: left;
+    background-color: #ffffff;
+    border: 0px;
+    padding: 1px;
+}
+.proposals1{
+    margin-left: 250px;
+}
+.company{
+    padding: 1px;
+    background-color: #ffffff;
+    border: 0px;
+    margin-right: 10px;
+    padding: 5px;
+    text-decoration: none;   
+    font-size: 12px;
+    border-right: 2px solid #ccc; 
+    margin-right: 20px;
+    padding-right: 20px;
+}
+.company_active{
+    padding: 1px;
+    background-color: #ffffff;
+    color: #cb7979;
+    border: 0px;
+    margin-right: 10px;
+    padding: 5px;
+    text-decoration: none;  
+    font-size: 12px;
+    border-right: 2px solid #ccc; 
+    margin-right: 20px;
+    padding-right: 20px;
+}
+.company_passive{  
+    padding: 1px;
+    background-color: #ffffff;
+    border: 0px;
+    margin-right: 10px;   
+}
+.feedback{
+    display: inline-block;
+    padding-right: 140px;
+    float: right;
+}
+.link{
+    display: block;
+    color: red;
+    margin-bottom: 15px;
+}
+.feedback_passive{
+    font-size: 12px;
+    color: #cfcfd0;
+    padding-bottom: 10px;
+}
+.feedback_active{
+    color: red;
+    font-size: 12px;
+    display: inline-block;
+    padding-right: 60px;
+    padding-bottom: 10px;
+}
+.feedback_active1{
+    display: inline-block;
+    font-size: 12px;
+    color: red;
+    display: inline-block;
+}
+.catalogue{
+    display: block;
+    text-align: center;   
+    font-weight: normal; 
+    padding-bottom: 5px;
+}
+.categories{
+    width: 120px;
+    background-color: #ffffff;
+    border: 0px;
+}
+.poster{
+    display: block;
+    text-align: center;
+}
+.section{
+    width: 230px;
+    height: 65px;
+    background-color: #b43f3f;
+}
+.section_active{
+    display: 
+}
+.passage{
+    text-align: center;
+    margin-top: 10px;
+}
+.passages{
+    border-bottom: 5px solid rgb(197, 197, 197); 
+    font-weight: normal; 
+    padding-bottom: 2px;
+}
+.current_events{
+    float: left;
+    width: 210px;
+    clear 
+}
+.current_events-header{
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.current_events-date{
+    text-transform: uppercase;
+    color: #a75151;
+    padding-bottom: 20px;
+}
+.events{
+    clear: both;
+    display: flow-root;
+}
+.current_events-event{
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+.current_events-details{
+    margin-bottom: 20px;
+    color: #a75151;    
+}
+.hr-dotted {
+     border-top: 2px dotted #ddd;
+}
+.article{
+    width: 690px;
+    float: right;
+    padding-right: 55px;
+}
+li{
+    color: red;
+}
+li span {
+    color: black;
+}
+u{
+    color: red;
+}
+.subtitle_countrie{
+    padding-bottom: 20px;
+}
+.partners{
+    text-align: center;    
+    font-weight: normal;
+}
+.hr-line {
+    margin-right: 50px;
+    border-top: 1px solid #d5d9dc;
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.partners_McCloskey_active{
+    padding-right: 5px;
+    width: 120px;
+    height: 30px;
+    padding-top: 50px;
+}
+.partners_McCloskey{
+    padding-right: 5px;
+    width: 120px;
+    height: 30px;
+    padding-top: 50px;  
+    filter: grayscale(100%); 
+}
+.supports{
+    display: flex;
+}
+.supports_section{
+    width: 130px;
+    padding-left: 35px;  
+    color: #939394;
+}
+.vl{
+    border-left: 3px solid #939394;
+    height: 100px;
+}
+.supports_section_passive{
+    width: 130px;
+    padding-left: 35px;   
+    color: #939394;
+}
+.supports_header{
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    color: #939394;
+}
+.supports_units{
+    padding-bottom: 20px;
+    color: #939394;
+}
+.tail{
+    padding-left: 40px;
+}
+.logo_b_w{
+    padding-top: 10px;
+    padding-left: 40px;
+    height: 55px;
+}
+.tail_color{
+    padding-right: 60px;
+    float: left;
+    color: #939394;
+}
+.tail_color1{
+    color: #939394;
+}
+.tail_phone{
+    display: initial;
+    font-size: 18px;
+    padding-right: 20px;
+    color: #939394;
+}
+.tail_table{
+    height: 30px;
+    width: 90px;
+    margin-left: 20px;
+}
